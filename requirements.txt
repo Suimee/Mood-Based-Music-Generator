@@ -2,6 +2,6 @@ streamlit
 numpy
 opencv-python
 mediapipe
-keras
-tensorflow
+tensorflow==2.12.0
+keras==2.12.0
 spotipy
